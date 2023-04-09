@@ -1,0 +1,17 @@
+
+
+body{background-color: rgb(250, 248, 246);}
+
+.nombre{
+    border: solid 1px;
+    padding: 8px;
+}
+
+.legend{
+    border: solid 1px;
+    border-radius: 150px;
+    background-color: lightsteelblue;
+}
+.name{
+    width: 125px;
+}
